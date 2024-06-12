@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight Finder", "Flight Finder\Flight Finder.csproj", "{5132FAD2-FC0C-4A5F-944E-5FD293A5FD5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5132FAD2-FC0C-4A5F-944E-5FD293A5FD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5132FAD2-FC0C-4A5F-944E-5FD293A5FD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5132FAD2-FC0C-4A5F-944E-5FD293A5FD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5132FAD2-FC0C-4A5F-944E-5FD293A5FD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2C1F14-2B27-4A69-91A1-8B71274677B0}
+	EndGlobalSection
+EndGlobal
